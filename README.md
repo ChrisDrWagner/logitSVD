@@ -44,7 +44,7 @@ p-value: ndarray[nfeature,depth], p-values from Wald test for the parameter E
 ```
 
 ## Documentation
-For a short description see the [description](https://github.com/ChrisDrWagner/logitSVD/logitSVD.pdf).
+For a short description see the [description](https://github.com/ChrisDrWagner/logitSVD/blob/master/logitSVD.pdf).
 
 ## Questions and feedback
 
